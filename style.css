@@ -1,7 +1,7 @@
 .card {
   width: 20%;
   background-color: #dddddd;
-  min-width: 250px;
+  min-width: 190px;
 }
 
 .btn-propb {
@@ -11,10 +11,15 @@
 }
 
 .card-title {
-  min-height: 8vh;
+  min-height: 50px;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .card-text {
-  min-height: 8vh;
+  min-height: 25px;
+  color: #5f6678;
+  font-size: 15px;
+  font-weight: bold;
 }
 /*# sourceMappingURL=style.css.map */
