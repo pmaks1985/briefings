@@ -1,0 +1,31 @@
+.card {
+    width: 20%;
+    background-color: #f1f3f8;
+    min-width: 190px;
+}
+
+.btn-propb {
+    color: #fff;
+    background-color: #fe0303;
+    border-color: #fe0303;
+}
+
+.card-title {
+    min-height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card-text {
+    min-height: 25px;
+    color: #5f6678;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.card-img-top {
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    padding-top: 180px;
+    background-size: cover;
+}
