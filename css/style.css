@@ -29,4 +29,10 @@
   padding-top: 180px;
   background-size: cover;
 }
+
+.card__video {
+  width: 30%;
+  background-color: white;
+  border: none;
+}
 /*# sourceMappingURL=style.css.map */
